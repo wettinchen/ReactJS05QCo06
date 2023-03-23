@@ -1,3 +1,41 @@
+## ReactJS Chapter 05
+It is my coding practice with the TUTORIAL of Dave Gray. 
+
+## Source
+### Dave Gray 的 Reactjs 課程
+https://youtube.com/playlist?list=PL0Zuz27SZ-6PrE9srvEn8nbhOOyxnWXfp
+### Dave Gray 的 YouTube 頻道
+https://www.youtube.com/@DaveGrayTeachesCode
+
+## ReactJS Chapter 05
+   Quick Concept outline
+   中文摘要說明與重點提問
+
+### 1. Intro 
+       教學影片固定的開頭和摘要說明
+
+### 2. React onClick Event <Code更動>
+       在 Hello Dave! 文字下方新增一個按鈕，指派回傳特定字串內容的功能；按鈕上的文字為 Click It。
+       
+
+### 3. Passing a Parameter in a Click Event <Code更動>
+       在第一個按鈕下方新增第二個按鈕，可輸入姓名作為參數的功能，並回傳包含姓名的特定字串內容。
+
+### 4. Wait for the click or immediately invoke the function
+       第二個按鈕和第一個按鈕的差異在哪裡?
+
+### 5. Using the event object in the click event function <Code更動>
+       在第二個按鈕下方新增第三個按鈕，可輸入事件 event 作為參數的功能，並回傳  event 。
+       修改第三個按鈕，可輸入事件作為參數的功能，並回傳 Button element。
+       修改第三個按鈕，可輸入事件作為參數的功能，並回傳 按鈕上的文字。
+
+### 6. React onDoubleClick event <Code更動>
+       設定點擊按鈕上面的文字兩次，能回傳點擊第一個按鈕會回傳的文字。
+
+### 7. How to change the greeting
+       總結並提要下一個教學內容
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +106,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# ReactJS03QCo07
